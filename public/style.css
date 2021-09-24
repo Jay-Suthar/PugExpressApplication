@@ -159,7 +159,7 @@ li {
 /* section  */
 #section {
     grid-area: section;
-    background: rgba(0, 0, 0, 0.5) url("webdesign-98.jpg");
+    background: rgba(0, 0, 0, 0.5) url('../public/wallpaperflare.com_wallpaper.jpg');
     background-size: cover;
     background-blend-mode: darken;
     height: 600px;
